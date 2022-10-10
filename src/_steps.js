@@ -21,5 +21,11 @@
             <Link to='/orders'>Orders</Link>
         )
 
-    9.
+    
+
+
+  CONTEXT API SETUP
+  1. declare a context
+  2. set provider
+  3. use Context in the place where you want to get the context
  */
